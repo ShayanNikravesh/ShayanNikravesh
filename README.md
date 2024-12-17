@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShayanNikravesh
-- 👀 I’m interested in programming
-- 🌱 backend developer
+- 👋 Hi, I’m Shayan Nikravesh
+- 🐺 I’m interested in programming
+- 🧑‍💻 backend developer
 
 <!---
 ShayanNikravesh/ShayanNikravesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
